@@ -2,6 +2,12 @@
 __pycache__/
 *.py[cod]
 
+# local
+local_settings.py
+
+# backups
+*~
+
 # C extensions
 *.so
 
